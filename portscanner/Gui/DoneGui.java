@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package portscanner.Gui;
 
 import java.net.InetSocketAddress;
@@ -10,7 +7,8 @@ import portscanner.ScanPorts;
 
 /**
  *
- * @author F&R
+ * @author thejavakid
+ * GUI made in netbeans! netbeans.org
  */
 public class DoneGui extends javax.swing.JFrame {
     Thread thread;

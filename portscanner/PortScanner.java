@@ -8,7 +8,7 @@ import portscanner.Gui.DoneGui;
 
 /**
  *
- * @author F&R
+ * @author thejavakid
  */
 public class PortScanner {
 
